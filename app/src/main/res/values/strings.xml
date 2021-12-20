@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="snapping_photo">Snapping Photo</string>
+    <string name="snapping">snapping</string>
+</resources>
